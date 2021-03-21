@@ -1,7 +1,7 @@
 ---
 title: "Théorème de Cauchy-Kowalewski"
 collection: talks
-type: "Conference proceedings talk"
+type: "Presentation"
 permalink: /talks/2016-12-02-talk-goutelas
 venue: "Week-end de Goutlas"
 date: 2016-12-02
