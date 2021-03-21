@@ -26,15 +26,15 @@ Experience
 ----------
 **Phd Student**
 2021.01 -- 
-* Location:  Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
-* Supervisors: David Coeurjolly, Tristan Rousillon
-Parameter-free analysis of digital surfaces.
+: Location:  Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
+  Supervisors: David Coeurjolly, Tristan Rousillon
+  Parameter-free analysis of digital surfaces.
 
 **Visiting Student**
 2020.03 -- 2020.08
-* Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
-* Tutor: Wang Weichung
-Medical image with deeplearning.
+:   Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
+    Tutor: Wang Weichung
+    Medical image with deeplearning.
 
 **Research Intern**
 2019.10 -- 2019.02
@@ -81,7 +81,7 @@ Compiled research papers for the project "Grandes Déviations".
 **Summer Intern of Academia Sinica**
 * 2014.07--2014.08
 * Location: Taipei, Taiwan
-:    Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
+:   Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
 My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).
 
 
