@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The is the English version of my curriculum vitae, click [here](https://juitinglu.github.io/cv_fr/) for the French version.
+This is the English version of my curriculum vitae. It is also available in [French](https://mothorchids.github.io/cv_fr/) and in [Mandarin](https://mothorchids.github.io/cv_zh/).
 
 Lu Jui-Ting
 ============
@@ -24,16 +24,21 @@ MyCountry                           1800 my-phone-nr
 
 Experience
 ----------
+**Phd Student**
+2021.01 -- 
+* Location:  Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
+* Supervisors: David Coeurjolly, Tristan Rousillon
+*Parameter-free analysis of digital surfaces*
 
 **Visiting Student**
 2020.03 -- 2020.08
 * Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
 * Tutor: Wang Weichung
-*Medical image with deeplearning.*
+*Medical image with deeplearning*
 
 **Research Intern**
 2019.10 -- 2019.02
-* Location: Origami Group, National Institute for Research in Computer Science and Automation(INRIA), Lyon, France
+* Location: Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
 * Tutor : Raphaëlle Chaine
 
 **Research Intern**
@@ -102,12 +107,12 @@ Education
 
     *Mention Mathématiques Appliquées, Statistique*
 
-2015-2016
+2016-2017
 :   **Licence Mathématiques**; Claude Bernard University Lyon 1 (Lyon, France)
 
     *Licence Mathémqtiques Fondamentales*
 
-2013-2015
+2013-2016
 :   **Higher School Preparatory Classes(CPGE)**; Lycée du Parc (Lyon, France)
 
     *Math and Physics*

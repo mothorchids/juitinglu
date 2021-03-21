@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am in the fourth year of Ecole normale Supérieure de Lyon. Currently, I stay at the National Center for Theoretical Sciences as visiting student.
+PhD student at Laboratoire d'Informatique en Images et Systèmes d'Information ([LIRIS](https://www.insa-lyon.fr/)) in Lyon, France.

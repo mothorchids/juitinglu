@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The is the French version of my curriculum vitae, click [here](https://juitinglu.github.io/cv/) for the English version.
+The is the French version of my curriculum vitae, click [here](https://mothorchids.github.io/cv/) for the English version.
 
 Lu Jui-Ting
 ============
@@ -27,7 +27,8 @@ Expérience
 **Thèse de doctorat**
 2021.01 -- 
 * Lieu : Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
-* Encadrant : David Coeurjolly, Tristan Rousillon.
+* Encadrants: David Coeurjolly, Tristan Rousillon
+*Analyse sans paramètre des surfaces digitales*
 
 **Second Stage du Projet Long de Recherche**
 2020.03 -- 2020.08
@@ -106,12 +107,12 @@ Education
 
     *Mention Mathématiques Appliquées, Statistique*
 
-2015-2016
+2016-2017
 :   **Licence Mathématiques**; Claude Bernard University Lyon 1 (Lyon, France)
 
     *Licence Mathémqtiques Fondamentales*
 
-2013-2015
+2013-2016
 :   **Classes Préparatoires aux Grandes Ecoles**; Lycée du Parc (Lyon, France)
 
     *Filière: MPSI, MP et MP**
