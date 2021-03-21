@@ -58,20 +58,19 @@ Experience
 * Taught maths at local high school.
 
 **Research project**
-2018.01 -- 2018.06
-* Location: Claude Bernard University (Lyon 1), Lyon, France
-* Tutor: Clément Marteau
-* Research for the project "EM algorithm".
+2018.01 -- 2018.06 at Claude Bernard University (Lyon 1), Lyon, France
+
+Tutor: Clément Marteau\
+*Research for the project "EM algorithm".*
 
 **Examiner of colle**
-2018.09 -- 2019.04
-* Location: Parc High School, Lyon, France
-* Conducted oral exams for class préparatoire students.
+2018.09 -- 2019.04 at Parc High School, Lyon, France
+
+*Conducted oral exams for class préparatoire students.*
 
 **Research Intern**
-:  2017.06 -- 2017.07
-
-Tutor: Hacène Djellout
+:  2017.06 -- 2017.07\
+Tutor: Hacène Djellout\
 *Compiled research papers for the project "Grandes Déviations".*
 
 **Week-end de Goutelas presenter**
