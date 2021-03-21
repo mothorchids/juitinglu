@@ -76,12 +76,12 @@ Compiled research papers for the project "Grandes Déviations".
 **Week-end de Goutelas presenter**
 * 2016.12.03.
 * Location: Goutelas Chateau, France 
-Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.
+:    Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.
 
 **Summer Intern of Academia Sinica**
 * 2014.07--2014.08
 * Location: Taipei, Taiwan
-Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
+:    Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
 My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).
 
 
