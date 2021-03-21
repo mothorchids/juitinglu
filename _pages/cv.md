@@ -25,62 +25,52 @@ MyCountry                           1800 my-phone-nr
 Experience
 ----------
 **Phd Student**
-2021.01 -- 
-* Location:  Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
-* Supervisors: David Coeurjolly, Tristan Rousillon
-* Parameter-free analysis of digital surfaces.
+2021.01 --   at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
+Supervisors: David Coeurjolly, Tristan Rousillon\
+*Parameter-free analysis of digital surfaces.*
 
 **Visiting Student**
-2020.03 -- 2020.08
-*  Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
-* Tutor: Wang Weichung
-* Medical image with deeplearning.
+2020.03 -- 2020.08 at MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan\
+Tutor: Wang Weichung\
+*Medical image with deeplearning.*
 
 **Research Intern**
-2019.10 -- 2019.02
-* Location: Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
-* Tutor : Raphaëlle Chaine
+: 2019.10 -- 2019.02 at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
+Tutor : Raphaëlle Chaine
 
 **Research Intern**
-2019.04 -- 2019.08
-* Location: Image Processing Group, Pompeu Fabra University, Barcelona, Spain
-* Tutor: Coloma Ballester
+: 2019.04 -- 2019.08 at Image Processing Group, Pompeu Fabra University, Barcelona, Spain\
+Tutor: Coloma Ballester
 
 **Summer Intern**
-2018.06 -- 2018.08
-* Location: Bionics and control Lab, Hong Kong University, Hong Kong
-* Tutor : Zeng Wang
+: 2018.06 -- 2018.08 at Bionics and control Lab, Hong Kong University, Hong Kong\
+Tutor : Zeng Wang
 
 **Teaching Intern**
-2018.03 -- 2018.04
-* Location: Saint Just High School, Lyon France
-* Tutor: Yves Le Toullec
-* Taught maths at local high school.
+: 2018.03 -- 2018.04 at Saint Just High School, Lyon France\
+Tutor: Yves Le Toullec\
+*Taught maths at local high school.*
 
 **Research project**
-2018.01 -- 2018.06 at Claude Bernard University (Lyon 1), Lyon, France
-
+: 2018.01 -- 2018.06 at Claude Bernard University (Lyon 1), Lyon, France\
 Tutor: Clément Marteau\
 *Research for the project "EM algorithm".*
 
 **Examiner of colle**
-2018.09 -- 2019.04 at Parc High School, Lyon, France
-
+: 2018.09 -- 2019.04 at Parc High School, Lyon, France\
 *Conducted oral exams for class préparatoire students.*
 
 **Research Intern**
-:  2017.06 -- 2017.07\
+: 2017.06 -- 2017.07\
 Tutor: Hacène Djellout\
 *Compiled research papers for the project "Grandes Déviations".*
 
 **Week-end de Goutelas presenter**
-:   2016.12.03. at Goutelas Chateau, France 
- 
+: 2016.12.03. at Goutelas Chateau, France\ 
 *Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.*
 
 **Summer Intern of Academia Sinica**
-:   2014.07--2014.08 at Taipei, Taiwan
-
+: 2014.07--2014.08 at Taipei, Taiwan\
 *Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
 My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).*
 
