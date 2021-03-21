@@ -9,51 +9,140 @@ redirect_from:
 
 {% include base_path %}
 
+The is the English version of my curriculum vitae, click [here](https://juitinglu.github.io/cv_fr/) for the French version.
+
+Lu Jui-Ting
+============
+
+<!--- 
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
+--->
+
+Experience
+----------
+
+**Visiting Student**
+2020.03 -- 2020.08
+* Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
+* Tutor: Wang Weichung
+*Medical image with deeplearning.*
+
+**Research Intern**
+2019.10 -- 2019.02
+* Location: Origami Group, National Institute for Research in Computer Science and Automation(INRIA), Lyon, France
+* Tutor : Raphaëlle Chaine
+
+**Research Intern**
+2019.04 -- 2019.08
+* Location: Image Processing Group, Pompeu Fabra University, Barcelona, Spain
+* Tutor: Coloma Ballester
+
+**Summer Intern**
+2018.06 -- 2018.08
+* Location: Bionics and control Lab, Hong Kong University, Hong Kong
+* Tutor : Zeng Wang
+
+**Teaching Intern**
+2018.03 -- 2018.04
+* Location: Saint Just High School, Lyon France
+* Tutor: Yves Le Toullec
+*Taught maths at local high school*
+
+**Research project**
+2018.01 -- 2018.06
+* Location: Claude Bernard University (Lyon 1), Lyon, France
+* Tutor: Clément Marteau
+*Research for the project "EM algorithm".*
+
+**Examiner of colle**
+2018.09 -- 2019.04
+* Location: Parc High School, Lyon, France
+*Conducted oral exams for class préparatoire students.*
+
+**Research Intern**
+* 2017.06 -- 2017.07
+* Tutor: Hacène Djellout
+*Compiled research papers for the project "Grandes Déviations".*
+
+**Week-end de Goutelas presenter**
+* 2016.12.03.
+* Location: Goutelas Chateau, France 
+*Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.*
+
+**Summer Intern of Academia Sinica**
+* 2014.07--2014.08
+* Location: Taipei, Taiwan
+*Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
+My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).*
+
+
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+---------
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<!--- 
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+--->
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2016-2020 (expected)
+:   **ENSL diploma**; École normale supérieure de Lyon(ENSL) (Lyon, France)
+
+    *Diplôme de l'ENS de Lyon*
+    
+2017-2019
+:   **Master de Science, Technologies et Santé**; Claude Bernard University Lyon 1 (Lyon, France)
+
+    *Mention Mathématiques Appliquées, Statistique*
+
+2015-2016
+:   **Licence Mathématiques**; Claude Bernard University Lyon 1 (Lyon, France)
+
+    *Licence Mathémqtiques Fondamentales*
+
+2013-2015
+:   **Higher School Preparatory Classes(CPGE)**; Lycée du Parc (Lyon, France)
+
+    *Math and Physics*
+
+
+
+<!--- 
+## 2019--2020, École normale supérieure de Lyon(ENSL), Fourth year of ENSL diploma
+## 2018--2019, Claude Bernard University (Lyon 1), Master2 Maths en action
+## 2017--2018, Claude Bernard University (Lyon 1), Master1 Mathématiques Générales
+## 2016--2017, École normale supérieure de Lyon, Licence Mathématiques
+## 2013--2016, Higher School Preparatory Classes(CPGE); MPSI,MP, and MP*, Lycée du Parc
+## 2010--2013, Taipei First Girls' High School; Taipei, Taiwan
+--->
+
+
+
+Computational skills:
+----------------------------------------
+- Basic: C++ SQL, R, Ocaml
+- Intermediate: $\LaTeX$, Python
+
+More about me
+----------------------------------------
+
+* Human Languages:
+
+     * Native: Mandarin
+     * Fluent: English (CAE level C1), 
+	French (DALF level C1)
+     * Elementary: Japanese (JLPT level N5), 
+	Russian, Spanish (Castilian), Catalan
+
+* Personal Interests
+
+	* Origami
+	* Music instrument: Trombone and Pipa
+
