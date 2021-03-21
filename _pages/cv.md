@@ -26,20 +26,20 @@ Experience
 ----------
 **Phd Student**
 2021.01 -- 
-: Location:  Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
-  Supervisors: David Coeurjolly, Tristan Rousillon
-  Parameter-free analysis of digital surfaces.
+- Location:  Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
+- Supervisors: David Coeurjolly, Tristan Rousillon
+- Parameter-free analysis of digital surfaces.
 
 **Visiting Student**
 2020.03 -- 2020.08
-:   Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
-    Tutor: Wang Weichung
-    Medical image with deeplearning.
+:    Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
+* Tutor: Wang Weichung
+- Medical image with deeplearning.
 
 **Research Intern**
 2019.10 -- 2019.02
-* Location: Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
-* Tutor : Raphaëlle Chaine
+: Location: Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
+- Tutor : Raphaëlle Chaine
 
 **Research Intern**
 2019.04 -- 2019.08
@@ -48,8 +48,8 @@ Experience
 
 **Summer Intern**
 2018.06 -- 2018.08
-* Location: Bionics and control Lab, Hong Kong University, Hong Kong
-* Tutor : Zeng Wang
+- Location: Bionics and control Lab, Hong Kong University, Hong Kong
+- Tutor : Zeng Wang
 
 **Teaching Intern**
 2018.03 -- 2018.04
