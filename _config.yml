@@ -13,7 +13,7 @@ name                     : &name "Lu Jui-Ting"
 description              : &description "personal description"
 url                      : https://juitinglu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juitinglu.github.io"
+repository               : "https://mothorchids.github.io/juitinglu/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
