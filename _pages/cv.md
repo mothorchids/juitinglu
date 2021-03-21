@@ -25,12 +25,12 @@ MyCountry                           1800 my-phone-nr
 Experience
 ----------
 **Phd Student**
-2021.01 --   at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
+: 2021.01 --   at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
 Supervisors: David Coeurjolly, Tristan Rousillon\
 *Parameter-free analysis of digital surfaces.*
 
 **Visiting Student**
-2020.03 -- 2020.08 at MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan\
+: 2020.03 -- 2020.08 at MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan\
 Tutor: Wang Weichung\
 *Medical image with deeplearning.*
 
@@ -66,7 +66,7 @@ Tutor: Hacène Djellout\
 *Compiled research papers for the project "Grandes Déviations".*
 
 **Week-end de Goutelas presenter**
-: 2016.12.03. at Goutelas Chateau, France\ 
+: 2016.12.03. at Goutelas Chateau, France\
 *Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.*
 
 **Summer Intern of Academia Sinica**
