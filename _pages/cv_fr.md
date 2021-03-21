@@ -28,7 +28,7 @@ Expérience
 2021.01 -- 
 * Lieu : Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
 * Encadrants: David Coeurjolly, Tristan Rousillon
-*Analyse sans paramètre des surfaces digitales*
+Analyse sans paramètre des surfaces digitales
 
 **Second Stage du Projet Long de Recherche**
 2020.03 -- 2020.08
@@ -72,7 +72,7 @@ Expérience
 * 2017.06 -- 2017.07
 * Lieu : Clermont-Ferrrand, France
 * Encadrant : Hacène Djellout
-*Titre : Introduction aux Grandes Déviations*
+Introduction aux Grandes Déviations
 
 **Week-end de Goutelas**
 * 2016.12.03.

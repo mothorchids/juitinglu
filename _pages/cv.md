@@ -28,13 +28,13 @@ Experience
 2021.01 -- 
 * Location:  Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France
 * Supervisors: David Coeurjolly, Tristan Rousillon
-*Parameter-free analysis of digital surfaces*
+Parameter-free analysis of digital surfaces.
 
 **Visiting Student**
 2020.03 -- 2020.08
 * Location: MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan
 * Tutor: Wang Weichung
-*Medical image with deeplearning*
+Medical image with deeplearning.
 
 **Research Intern**
 2019.10 -- 2019.02
@@ -55,34 +55,34 @@ Experience
 2018.03 -- 2018.04
 * Location: Saint Just High School, Lyon France
 * Tutor: Yves Le Toullec
-*Taught maths at local high school*
+Taught maths at local high school.
 
 **Research project**
 2018.01 -- 2018.06
 * Location: Claude Bernard University (Lyon 1), Lyon, France
 * Tutor: Clément Marteau
-*Research for the project "EM algorithm".*
+Research for the project "EM algorithm".
 
 **Examiner of colle**
 2018.09 -- 2019.04
 * Location: Parc High School, Lyon, France
-*Conducted oral exams for class préparatoire students.*
+Conducted oral exams for class préparatoire students.
 
 **Research Intern**
 * 2017.06 -- 2017.07
 * Tutor: Hacène Djellout
-*Compiled research papers for the project "Grandes Déviations".*
+Compiled research papers for the project "Grandes Déviations".
 
 **Week-end de Goutelas presenter**
 * 2016.12.03.
 * Location: Goutelas Chateau, France 
-*Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.*
+Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.
 
 **Summer Intern of Academia Sinica**
 * 2014.07--2014.08
 * Location: Taipei, Taiwan
-*Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
-My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).*
+Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
+My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).
 
 
 
