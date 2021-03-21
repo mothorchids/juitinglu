@@ -69,19 +69,18 @@ Experience
 * Conducted oral exams for class préparatoire students.
 
 **Research Intern**
-* 2017.06 -- 2017.07
-* Tutor: Hacène Djellout
-* Compiled research papers for the project "Grandes Déviations".
+:  2017.06 -- 2017.07
+
+Tutor: Hacène Djellout
+*Compiled research papers for the project "Grandes Déviations".*
 
 **Week-end de Goutelas presenter**
-:   2016.12.03.
-    Location: Goutelas Chateau, France 
+:   2016.12.03. at Goutelas Chateau, France 
  
 *Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.*
 
 **Summer Intern of Academia Sinica**
-* 2014.07--2014.08
-* Location: Taipei, Taiwan
+:   2014.07--2014.08 at Taipei, Taiwan
 
 *Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
 My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).*
