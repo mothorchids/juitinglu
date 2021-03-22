@@ -35,7 +35,7 @@ Experience
   *Medical image with deeplearning.*
 
 **Research Intern**
-: 2019.10 -- 2019.02 at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
+: 2019.10 -- 2020.02 at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
   Tutor : Raphaëlle Chaine
 
 **Research Intern**

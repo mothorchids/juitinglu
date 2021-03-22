@@ -37,7 +37,7 @@ Encadrant : Weichung Wang
 <!--- Medical image with deeplearning.*--->
 
 **Premier Stage du Projet Long de Recherche**
-2019.10 -- 2019.02
+2019.10 -- 2020.02
 : Lieu : Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
   Encadrante : Raphaëlle Chaine
 
