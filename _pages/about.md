@@ -16,4 +16,4 @@ A couple of things I’ve worked on:
 - Solving partial differential equations for a pattern comparison problem  (2019)
 - Creating mathematical models for soft robotic hands (2018)
 
-Check out my [CV](https://mothorchids.github.io/cv_fr/) for more details.
+Check out my [CV](https://mothorchids.github.io/cv/) for more details.
