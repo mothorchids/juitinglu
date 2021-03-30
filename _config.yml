@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  miscellaneous:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,8 +230,8 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
-    values:
+      type: miscellaneous
+      values:
       layout: single
       author_profile: true
       share: true
