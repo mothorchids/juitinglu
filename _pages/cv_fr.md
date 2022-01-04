@@ -110,7 +110,7 @@ Education
 2016-2017
 :   **Licence Mathématiques**; Claude Bernard University Lyon 1 (Lyon, France)
 
-    *Licence Mathémqtiques Fondamentales*
+    *Licence Mathématiques Fondamentales*
 
 2013-2016
 :   **Classes Préparatoires aux Grandes Ecoles**; Lycée du Parc (Lyon, France)
