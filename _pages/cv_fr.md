@@ -122,8 +122,8 @@ Education
 
 Programmation:
 ----------------------------------------
-- Elémentaire : C++ SQL, R, Ocaml
-- Intermédiaire : $\LaTeX$, Python
+- Elémentaire : SQL, R, Ocaml, Java
+- Intermédiaire : $\LaTeX$, Python, C++
 
 Autres
 ----------------------------------------

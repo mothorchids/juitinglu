@@ -124,8 +124,8 @@ Education
 
 Computational skills:
 ----------------------------------------
-- Basic: C++ SQL, R, Ocaml
-- Intermediate: $\LaTeX$, Python
+- Basic: SQL, R, Ocaml, Java
+- Intermediate: $\LaTeX$, Python, C++
 
 More about me
 ----------------------------------------
