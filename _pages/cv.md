@@ -36,11 +36,13 @@ Experience
 
 **Research Intern**
 : 2019.10 -- 2020.02 at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
-  Tutor : Raphaëlle Chaine
+  Tutor : Raphaëlle Chaine\
+  *Analsis of vector field on a sampled surface and shape fusion.*
 
 **Research Intern**
 : 2019.04 -- 2019.08 at Image Processing Group, Pompeu Fabra University, Barcelona, Spain\
-  Tutor: Coloma Ballester
+  Tutor: Coloma Ballester\
+  *Solving a PDE providing a multiscale comparison of images.*
 
 **Summer Intern**
 : 2018.06 -- 2018.08 at Bionics and control Lab, Hong Kong University, Hong Kong\
