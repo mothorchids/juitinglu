@@ -2,7 +2,6 @@
 title: "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity"
 collection: publications
 permalink: /publication/2019-08-02-soft_robotics
-excerpt: 'During my stay at Hong Kong, I worked on the calculation of soft-robotic hand bending angle estimation and grasping area estimation.'
 date: 2019-08-02
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/8786814'

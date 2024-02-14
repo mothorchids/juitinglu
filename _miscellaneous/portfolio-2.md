@@ -1,6 +1,5 @@
 ---
 title: "Intersection of 10 tetrahedra"
-excerpt: "My design <br/><img src='/images/portfolio-10tetra.png'>"
 collection: miscellaneous
 ---
 
