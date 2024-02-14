@@ -25,10 +25,10 @@ MyCountry                           1800 my-phone-nr
 Expérience
 ----------
 **Thèse de doctorat**
-2021.01 -- 
+2021.01 -- 2023.12
 : Lieu : Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
 Encadrants: David Coeurjolly, Tristan Rousillon\
-*Analyse sans paramètre des surfaces digitales*
+*Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing*
 
 **Second Stage du Projet Long de Recherche**
 2020.03 -- 2020.08

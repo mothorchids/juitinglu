@@ -24,9 +24,9 @@ redirect_from:
 
 **圖像信息與信息系統實驗室（LIRIS）/ 博士**
 
-2021.01 --  , 法國里昂
-* 指導教授: David Coeurjolly, Tristan Rousillon
-*Parameter-free analysis of digital surfaces*
+2021.01 -- 2023.12 , 法國里昂
+指導教授: David Coeurjolly, Tristan Rousillon
+*Parameter-free analysis of digital surfaces with plane probing algorithms*
 
 **國家理論中心 / 訪問學生**
 

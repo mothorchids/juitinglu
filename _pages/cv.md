@@ -25,9 +25,9 @@ MyCountry                           1800 my-phone-nr
 Experience
 ----------
 **Phd Student**
-: 2021.01 -- at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
-  Supervisors: David Coeurjolly, Tristan Rousillon\
-  *Parameter-free analysis of digital surfaces.*
+: 2021.01 -- 2023.12 at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
+  Supervisors: David Coeurjolly, Tristan Rousillon
+  *Parameter-free analysis of digital surfaces with plane probing algorithms.*
 
 **Visiting Student**
 : 2020.03 -- 2020.08 at MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan\
