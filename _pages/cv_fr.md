@@ -28,7 +28,7 @@ Expérience
 2021.01 -- 2023.12
 : Lieu : Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
 Encadrants: David Coeurjolly, Tristan Rousillon\
-*Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing*
+[*Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing*](https://liris.cnrs.fr/these/these-jui-ting-lu/)
 
 **Second Stage du Projet Long de Recherche**
 2020.03 -- 2020.08
@@ -140,3 +140,4 @@ Autres
 
 	* Origami
 	* Instrument : Trombone and Pipa
+	* Art Martial : Kyudo 
