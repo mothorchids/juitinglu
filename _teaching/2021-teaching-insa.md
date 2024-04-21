@@ -8,7 +8,6 @@ date: 2021-09-01
 location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Travaux Dirigés : Algorithmique et programmation 3,
 ======

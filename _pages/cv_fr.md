@@ -30,6 +30,8 @@ Expérience
 Encadrants: David Coeurjolly, Tristan Rousillon\
 [*Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing*](https://liris.cnrs.fr/these/these-jui-ting-lu/)
 
+> Pendant ma thèse, j'ai donné des travaux pratiques et des travaux dirigés. Veuillez consulter [cette page](https://mothorchids.github.io/teaching/)
+
 **Second Stage du Projet Long de Recherche**
 2020.03 -- 2020.08
 : Lieu : MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan\
