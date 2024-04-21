@@ -1,7 +1,7 @@
 ---
 title: "Algorithmique et programmation 3 (2021,2022)"
 collection: teaching
-type: "Workshop"
+type: "TD"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Institut national des sciences appliquées de Lyon, Department FIMI"
 date: 2021-09-01
@@ -9,7 +9,7 @@ location: "Lyon, France"
 ---
 
 
-Travaux Dirigés : Algorithmique et programmation 3,
+Travaux Dirigés : Algorithmique et programmation 3
 ======
 
 - Niveau : Licence 2

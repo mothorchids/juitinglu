@@ -1,7 +1,7 @@
 ---
 title: "LIFAP6 (2021,2022)"
 collection: teaching
-type: "Undergraduate course"
+type: "TP"
 permalink: /teaching/2021-aut-teaching-lyon1
 venue: "University 1, Department Informatique"
 date: 2021-09-01
