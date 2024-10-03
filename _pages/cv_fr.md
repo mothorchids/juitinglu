@@ -24,66 +24,58 @@ MyCountry                           1800 my-phone-nr
 
 Expérience
 ----------
-**Thèse de doctorat**
-2021.01 -- 2023.12
-: Lieu : Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
-Encadrants: David Coeurjolly, Tristan Rousillon\
-[*Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing*](https://liris.cnrs.fr/these/these-jui-ting-lu/)
+**Attaché temporaire d'enseignement et de recherche**
+: 2024.10 --, Équipe ADAGIo, Laboratoire lorrain de recherche en informatique et ses applications (LORIA), Nancy, France
 
-> Pendant ma thèse, j'ai donné des travaux pratiques et des travaux dirigés. Veuillez consulter [cette page](https://mothorchids.github.io/teaching/)
+**Thèse de doctorat**
+: 2021.01 -- 2023.12, Équipe Origami, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
+  Encadrants: David Coeurjolly, Tristan Roussillon\
+  [*Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing*](https://liris.cnrs.fr/these/these-jui-ting-lu/)
+
+  > Pendant ma thèse, j'ai donné des travaux pratiques et des travaux dirigés. Veuillez consulter [cette page](https://mothorchids.github.io/teaching/)
 
 **Second Stage du Projet Long de Recherche**
-2020.03 -- 2020.08
-: Lieu : MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan\
-Encadrant : Weichung Wang
+: 2020.03 -- 2020.08, MeDA Lab, National Center of Theoretical Science, Taipei, Taiwan\
+  Encadrant : Weichung Wang
 <!--- Medical image with deeplearning.*--->
 
 **Premier Stage du Projet Long de Recherche**
-2019.10 -- 2020.02
-: Lieu : Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
+: 2019.10 -- 2020.02, Équipe Origami, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
   Encadrante : Raphaëlle Chaine
 
 **Stage de fin d'étude**
-2019.04 -- 2019.08
-: Lieu : Image Processing Group, Université Pompeu Fabra, Barcelone, Espagne\
+: 2019.04 -- 2019.08, Image Processing Group, Université Pompeu Fabra, Barcelone, Espagne\
   Encadrante : Coloma Ballester
 
 **Stage d'été**
-2018.06 -- 2018.08
-: Lieu : Bionics and control Lab, Université de Hong Kong, Hong Kong\
+: 2018.06 -- 2018.08, Bionics and control Lab, Université de Hong Kong, Hong Kong\
   Encadrant : Zeng Wang
 
 **Stage d'enseignement**
-2018.03 -- 2018.04
-: Lieu : Lycée Saint Just, Lyon France\
+: 2018.03 -- 2018.04, Lycée Saint Just, Lyon France\
   Encadrant : Yves Le Toullec
 <!--- Taught maths at local high school--->
 
 **Project de recherche**
-2018.01 -- 2018.06
-: Lieu : Université Claude Bernard (Lyon 1), Lyon, France\
+: 2018.01 -- 2018.06, Université Claude Bernard (Lyon 1), Lyon, France\
   Encadrant : Clément Marteau
 <!--- Research for the project "EM algorithm".--->
 
 **Examiner of colle**
-2018.09 -- 2019.04
-: Lieu : Lycée du Parc, Lyon, France
+: 2018.09 -- 2019.04, Lycée du Parc, Lyon, France
 <!--- Conducted oral exams for class préparatoire students.--->
 
 **Stage d'initiation à la Recherche**
-2017.06 -- 2017.07
-: Lieu : Clermont-Ferrrand, France\
+: 2017.06 -- 2017.07, Clermont-Ferrrand, France\
   Encadrant : Hacène Djellout
 Introduction aux Grandes Déviations
 
 **Week-end de Goutelas**
-2016.12.03.
-: Lieu : Chateau Goutelas, France 
+: 2016.12.03., Chateau Goutelas, France 
 <!--- Presented the Cauchy-Kovalewski theorem at “Week-end de Goutelas”, an annual event held by the ENS maths department.--->
 
 **Stage d'été**
-2014.07--2014.08
-: Lieu : Academia Sinica, Taipei, Taiwan
+: 2014.07--2014.08, Academia Sinica, Taipei, Taiwan
 <!--- Every summer, the mathematics department of Academia Sinica holds a six-week internship for selected undergraduated students.
 My work is saved in the second column from the left at [link](https://www.math.sinica.edu.tw/student/anime_2014/).--->
 
@@ -105,26 +97,24 @@ Education
 
     
 2017-2019
-:   **Master de Science, Technologies et Santé**; Claude Bernard University Lyon 1 (Lyon, France)
+:   **Master de Science, Technologies et Santé**; Université Claude Bernard Lyon 1 (Lyon, France)
 
     *Mention Mathématiques Appliquées, Statistique*
 
 2016-2017
-:   **Licence Mathématiques**; Claude Bernard University Lyon 1 (Lyon, France)
+:   **Licence Mathématiques**; Université Claude Bernard Lyon 1 (Lyon, France)
 
     *Licence Mathématiques Fondamentales*
 
 2013-2016
-:   **Classes Préparatoires aux Grandes Ecoles**; Lycée du Parc (Lyon, France)
+:   **Classes Préparatoires aux Grandes Écoles**; Lycée du Parc (Lyon, France)
 
     *Filière: MPSI, MP et MP**
 
 
-
-
 Programmation:
 ----------------------------------------
-- Elémentaire : SQL, R, Ocaml, Java
+- Élémentaire : SQL, R, Ocaml, Java
 - Intermédiaire : $\LaTeX$, Python, C++
 
 Autres
@@ -138,7 +128,7 @@ Autres
      * Scolaire : Japonais (JLPT niveau N5), 
 	Russe, Espanol (Castillan), Catalan
 
-* Interêts :
+* Intérêts :
 
 	* Origami
 	* Instrument : Trombone and Pipa

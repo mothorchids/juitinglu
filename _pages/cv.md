@@ -24,9 +24,13 @@ MyCountry                           1800 my-phone-nr
 
 Experience
 ----------
+
+**Attaché temporaire d'enseignement et de recherche**
+: 2024.10 --, ADAGIo group, Laboratoire lorrain de recherche en in    formatique et ses applications (LORIA), Nancy, France
+
 **Phd Student**
 : 2021.01 -- 2023.12 at Origami Group, Laboratoire d'Informatique en Images et Systèmes d'Information(LIRIS), Lyon, France\
-  Supervisors: David Coeurjolly, Tristan Rousillon
+  Supervisors: David Coeurjolly, Tristan Roussillon
   *Parameter-free analysis of digital surfaces with plane probing algorithms.*
 
 **Visiting Student**
